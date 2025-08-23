@@ -6,7 +6,7 @@ My name is Quang Duc. I am a student at Hanoi University Science and Technology.
 
 <a href="https://github.com/Wanlee0701/Car-Brand-Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Wanlee0701&repo=Car-Brand-Prediction&theme=radical" />
 </a>    
 <a href="https://github.com/vietnh1009/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
