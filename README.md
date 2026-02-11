@@ -9,3 +9,7 @@ My name is Quang Duc. I am a student at Hanoi University Science and Technology.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Wanlee0701&repo=Car-Brand-Prediction&theme=radical" />
 </a>
 
+<a href="https://github.com/Wanlee0701/Chatbot-QnA-about-student-regulations">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Wanlee0701&repo=Chatbot-QnA-about-student-regulations&theme=radical" />
+</a>
